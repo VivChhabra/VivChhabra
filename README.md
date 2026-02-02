@@ -6,4 +6,4 @@
   ❤️ Interested in FrontEnd Developement and Design
 </pre>
 
-![froggy](frog image.jpg)
+![froggy](frog_image.jpg)
