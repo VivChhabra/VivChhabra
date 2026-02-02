@@ -9,4 +9,4 @@
 
   
 ![froggy](frog_image.jpg)
-<\div>
+</div>
