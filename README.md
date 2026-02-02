@@ -3,7 +3,7 @@
 
 <pre>
   💻 Student @ Univeristy Of Guelph | Minor in Project Management!
-  ✨ Tech Stack| Java, C , Python, React
+  ✨ Tech Stack | Java, C , Python, React
   ❤️ Interested in FrontEnd Developement and Design
 </pre>
 
