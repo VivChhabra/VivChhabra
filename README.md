@@ -5,3 +5,5 @@
   ✨ Tech Stack| Java, C , Python, React
   ❤️ Interested in FrontEnd Developement and Design
 </pre>
+
+![froggy](frog image.jpg)
